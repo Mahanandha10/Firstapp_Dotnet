@@ -12,3 +12,4 @@ C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\refint\myfristapp.dll
 C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.pdb
 C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.genruntimeconfig.cache
 C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\ref\myfristapp.dll
+C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.sourcelink.json
