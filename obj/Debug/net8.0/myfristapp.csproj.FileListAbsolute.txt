@@ -1,0 +1,14 @@
+C:\Users\DELL\Downloads\MJ\myfristapp\bin\Debug\net8.0\myfristapp.exe
+C:\Users\DELL\Downloads\MJ\myfristapp\bin\Debug\net8.0\myfristapp.deps.json
+C:\Users\DELL\Downloads\MJ\myfristapp\bin\Debug\net8.0\myfristapp.runtimeconfig.json
+C:\Users\DELL\Downloads\MJ\myfristapp\bin\Debug\net8.0\myfristapp.dll
+C:\Users\DELL\Downloads\MJ\myfristapp\bin\Debug\net8.0\myfristapp.pdb
+C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.AssemblyInfo.cs
+C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.dll
+C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\refint\myfristapp.dll
+C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.pdb
+C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.genruntimeconfig.cache
+C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\ref\myfristapp.dll
