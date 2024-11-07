@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sxoziYPuZ2Q=",
+  "dgSpecHash": "EFn3xIvXeJQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Downloads\\MJ\\myfristapp\\myfristapp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\passwordgenerator\\2.1.0\\passwordgenerator.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

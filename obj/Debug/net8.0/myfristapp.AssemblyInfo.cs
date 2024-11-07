@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("myfristapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a931c4a350cb169d73b65467e503a99fbf8fc9fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8236aba6a8ff3e0191c03f195791f1b36dd49eb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("myfristapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("myfristapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

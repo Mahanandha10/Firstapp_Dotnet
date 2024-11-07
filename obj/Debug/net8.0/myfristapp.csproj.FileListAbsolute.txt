@@ -13,3 +13,6 @@ C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.pdb
 C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.genruntimeconfig.cache
 C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\ref\myfristapp.dll
 C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.sourcelink.json
+C:\Users\DELL\Downloads\MJ\myfristapp\bin\Debug\net8.0\PasswordGenerator.dll
+C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\MJ\myfristapp\obj\Debug\net8.0\myfristapp.csproj.Up2Date
